@@ -5,12 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LobbyRelay.unity
     guid: 24aed5254a66c4654a5ebdd2494f7736
   - enabled: 1
     path: Assets/Scenes/ARColab.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    guid: 061c4f826288240d0ae9568849e5e204
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5656151f9a6fbe0448479b18fa2c754f, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: ef94416b2df961541a1118ef6df79aff, type: 2}
